@@ -25,6 +25,7 @@ end
 def using_concat(my_favorite_things, more_favs)
   my_favorite_things.concat(more_favs)
 end
+<<<<<<< HEAD
 
 def using_insert(new_array, list_of_esoteric_programming_languages)
   new_array.insert(4, list_of_esoteric_programming_languages)
@@ -45,3 +46,5 @@ end
 def using_delete_at(famous_robots, int)
   famous_robots.delete_at(int)
 end
+=======
+>>>>>>> 2c2cc8b6415601cd9ec883f1296ca77b85f1a02d
